@@ -133,6 +133,7 @@ plt.show()
 
 # Output:
 ### Head
+```
 ![outputhead](head.png)
 ### Graph
 ![outputgraph](grph.png)
@@ -140,6 +141,6 @@ plt.show()
 ![outputerrorgrp](error.png)
 ### Accuracy
 ![outputacc](acc.png)
-
+```
 ## Result:
 Thus a perceptron for classification is implemented using python
