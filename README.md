@@ -43,10 +43,10 @@ Print the accuracy
 
 
 ## PROGRAM:
-~
-Developed By: G Venkata Pavan Kumar
-Reg No.: 212221240013
-~
+~~~
+Developed By: P SYAM TEJ
+Reg No.: 212221240056
+~~~
 
 ~
 import numpy as np
