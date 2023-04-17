@@ -48,7 +48,7 @@ Developed By: P SYAM TEJ
 Reg No.: 212221240056
 ~~~
 
-~
+~~~
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -118,7 +118,7 @@ plt.plot(range(1, len(classifier.misclassified_samples) + 1),classifier.misclass
 plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
-~
+~~~
 
 ## Output:
 ![image](https://user-images.githubusercontent.com/94827772/230738762-7e00faf2-359f-49fc-acd5-d59dd0d35617.png)
