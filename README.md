@@ -43,11 +43,8 @@ Print the accuracy
 
 
 ## PROGRAM:
-~~~
-Developed By: P SYAM TEJ
-Reg No.: 212221240056
-~~~
-
+## Developed By: P SYAM TEJ
+## Reg No.: 212221240056
 ~~~
 import numpy as np
 import pandas as pd
